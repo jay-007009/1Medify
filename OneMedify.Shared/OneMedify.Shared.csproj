@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.0.1" />
+    <PackageReference Include="OneRPP.PolicyServer" Version="0.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OneMedify.Infrastructure\OneMedify.Infrastructure.csproj" />
+    <ProjectReference Include="..\OneMedify.Resources\OneMedify.Resources.csproj" />
+  </ItemGroup>
+
+</Project>

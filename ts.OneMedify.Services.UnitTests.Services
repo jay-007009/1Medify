@@ -1,0 +1,250 @@
+[33mcommit 0cfffecd0ab4591e136ceb72db7c2a952ceca1ac[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/getdiseasesapi-unittest[m[33m, [m[1;31morigin/feature/getdiseasesapi-unittest[m[33m)[m
+Author: SinghKetanKumar <singhketankumar796>
+Date:   Tue May 3 12:27:43 2022 +0530
+
+    feat:completed unit testing for getdisease-api
+
+[33mcommit 205f3d8e69f2cfb0967eb78d8bd0149c3d5e802b[m
+Merge: 206d1b3 19f6d3f
+Author: SinghKetanKumar <singhketankumar796>
+Date:   Mon May 2 16:17:17 2022 +0530
+
+    fix: removed unnessary space and usings
+
+[33mcommit 206d1b3143d86f674fdcce85cb77056c68f08742[m
+Author: SinghKetanKumar <singhketankumar796>
+Date:   Mon May 2 16:01:15 2022 +0530
+
+    feat: added unit test for disease service api
+
+[33mcommit 19f6d3fd70f6f823f4c5dc3bedbbafd335790c99[m[33m ([m[1;31morigin/develop[m[33m)[m
+Merge: cfa6218 5e84a5f
+Author: jagruti pandya <jagruti.pandya@1rivet.com>
+Date:   Mon May 2 15:14:53 2022 +0530
+
+    Merge branch 'feature/getcity-by-stateid' into 'develop'
+    
+    feature getcity-by-stateid into develop
+    
+    See merge request 1Rivet/1medifyservice!3
+
+[33mcommit 5e84a5f57ce42a1f6580cd0f1875a979fd81eba6[m
+Author: Prachi Mahyavanshi <prachi.mahyavanshi@1Rintern.local>
+Date:   Mon May 2 11:48:21 2022 +0530
+
+    feat: resource file changed, given validation in repositories,change services
+
+[33mcommit c36a70fe92659728545b37a4cd878ee0364c9016[m
+Author: Prachi Mahyavanshi <prachi.mahyavanshi@1Rintern.local>
+Date:   Fri Apr 29 18:08:07 2022 +0530
+
+    feat: refactored statuscode resource
+
+[33mcommit 200a750184d1dd72befe45f3e6abec101a1017a9[m
+Author: SinghKetanKumar <singhketankumar796>
+Date:   Fri Apr 29 17:38:45 2022 +0530
+
+    feat: done testing of getdisease of service layer
+
+[33mcommit c72801f4035efaadf7d2753fc35d25db3e9ffadd[m
+Author: Prachi Mahyavanshi <prachi.mahyavanshi@1Rintern.local>
+Date:   Fri Apr 29 15:40:10 2022 +0530
+
+    feat: refactor the resources file
+
+[33mcommit 9b8a6266c6ac838ff8c76ac1f2e38c2fa2355497[m
+Author: Prachi Mahyavanshi <prachi.mahyavanshi@1Rintern.local>
+Date:   Fri Apr 29 15:34:31 2022 +0530
+
+    feat: updated the changes and refactored the statuscode resource
+
+[33mcommit 22e75cefd9e18a944a7e38aaf3053537a47e346a[m
+Author: Prachi Mahyavanshi <prachi.mahyavanshi@1Rintern.local>
+Date:   Thu Apr 28 17:55:54 2022 +0530
+
+    removed unncesaary cod eand usings
+
+[33mcommit 3338d830afe01dbf578c2ef1bec071a389048e95[m
+Merge: b7b1882 cfa6218
+Author: Prachi Mahyavanshi <prachi.mahyavanshi@1Rintern.local>
+Date:   Thu Apr 28 17:41:44 2022 +0530
+
+    pull from develop and solved merge conflict
+
+[33mcommit cfa6218a078cb83454167e64c695e045850e6684[m
+Merge: 8a11187 e48f623
+Author: Jigna Patel <jignal.patel@1rivet.com>
+Date:   Thu Apr 28 16:53:56 2022 +0530
+
+    Merge branch 'feature/getstate' into 'develop'
+    
+    feature/getstate into develop branch
+    
+    See merge request 1Rivet/1medifyservice!2
+
+[33mcommit e48f6232039c6fb0b7dc3e1f8390de30e13cfce8[m
+Author: Payal Patel <payal.patel@1Rintern.local>
+Date:   Thu Apr 28 16:49:15 2022 +0530
+
+    feat: duplicate services has been removed
+
+[33mcommit 7617364e58c59c45e6449defbeeac6aff656830b[m
+Author: Payal Patel <payal.patel@1Rintern.local>
+Date:   Thu Apr 28 13:38:35 2022 +0530
+
+    changed connectionstring
+
+[33mcommit 187102eea1aeae34354a0dbd1719db36acf85df0[m
+Author: Payal Patel <payal.patel@1Rintern.local>
+Date:   Thu Apr 28 12:38:40 2022 +0530
+
+    changed resources reference
+
+[33mcommit 88d35f9dffe2507789bb957b3ae21624e95d8973[m
+Merge: e25a5f0 8a11187
+Author: Payal Patel <payal.patel@1Rintern.local>
+Date:   Thu Apr 28 12:24:06 2022 +0530
+
+    pull from develop and solved merge conflict
+
+[33mcommit e25a5f0afe28569fd47a384ca0e8a426a6e9f1d6[m
+Author: Payal Patel <payal.patel@1Rintern.local>
+Date:   Thu Apr 28 12:19:55 2022 +0530
+
+    feat: changed resources references
+
+[33mcommit 20d1ba6a9620f46470270ad4e0e8833b01cc8e22[m
+Author: Payal Patel <payal.patel@1Rintern.local>
+Date:   Thu Apr 28 12:18:53 2022 +0530
+
+    feat: changed resource file and removed unneccesary usings
+
+[33mcommit 8a11187736654dcd32de8277e44aba8c620e663b[m[33m ([m[1;32mdevelop[m[33m)[m
+Merge: 4d54866 5f95155
+Author: Jigna Patel <jignal.patel@1rivet.com>
+Date:   Thu Apr 28 11:11:40 2022 +0530
+
+    Merge branch 'feature/getdieases' into 'develop'
+    
+    feat: diseases into develop
+    
+    See merge request 1Rivet/1medifyservice!4
+
+[33mcommit b7b18826ffede70c98ed89c1cd6e65c6f8332a05[m[33m ([m[1;31morigin/feature/getcity-by-stateid[m[33m)[m
+Author: Prachi Mahyavanshi <prachi.mahyavanshi@1Rintern.local>
+Date:   Wed Apr 27 18:01:43 2022 +0530
+
+    feat: updated code for getcity api
+
+[33mcommit 5f951555eb7672b292f5ac7753643345b244a784[m[33m ([m[1;31morigin/feature/getdieases[m[33m)[m
+Author: jay-007009 <jayrchauhan007@gmail.com>
+Date:   Wed Apr 27 17:25:13 2022 +0530
+
+    feat: Remove unnecessary namespaces
+
+[33mcommit 36e1ce77e67fdaf69310c3761b7b3fff5395fcd7[m[33m ([m[1;31morigin/feature/getstate[m[33m)[m
+Author: Payal Patel <payal.patel@1Rintern.local>
+Date:   Wed Apr 27 15:06:36 2022 +0530
+
+    feat: changed references of unit test project
+
+[33mcommit 987d2fa5d3762b19818c26cfe9d3fa12c7b5d877[m
+Author: Payal Patel <payal.patel@1Rintern.local>
+Date:   Wed Apr 27 15:01:40 2022 +0530
+
+    feat: api to get all states
+
+[33mcommit 9f1b460c73ad02be701dbd2407c9965c399fe3db[m
+Author: jay-007009 <jayrchauhan007@gmail.com>
+Date:   Wed Apr 27 12:55:28 2022 +0530
+
+    feat: change naming convension ResponseDto to DiseaseResponseDto
+
+[33mcommit 652863b79b6af82cf4d50a80ae987e61df86fc78[m
+Author: jay-007009 <jayrchauhan007@gmail.com>
+Date:   Wed Apr 27 11:00:13 2022 +0530
+
+    feat: resolved statuscode & naming convension
+
+[33mcommit 772f1794b7b223ab45637bc4a364f16665e42e88[m
+Author: jay-007009 <jayrchauhan007@gmail.com>
+Date:   Tue Apr 26 17:10:03 2022 +0530
+
+    feat: added status code
+
+[33mcommit 68d2caf9d49816021eeac4b5e323245145382091[m
+Author: jay-007009 <jayrchauhan007@gmail.com>
+Date:   Tue Apr 26 12:23:05 2022 +0530
+
+    feat: resolve references
+
+[33mcommit 33025c92443fc47ec225dcafea6b51582a97c2d9[m
+Author: Prachi Mahyavanshi <prachi.mahyavanshi@1Rintern.local>
+Date:   Mon Apr 25 22:02:20 2022 +0530
+
+     Added api of get city by stateid
+
+[33mcommit f08aa3e3e1d69a2e9e839be7b4315c6d9e44b144[m
+Author: jay-007009 <jayrchauhan007@gmail.com>
+Date:   Mon Apr 25 20:13:08 2022 +0530
+
+    feat: added DieasesEntityClass,DieasesRepository,DieasesService
+
+[33mcommit 4d548667117242548081b2c802a32dfbc67af4d0[m[33m ([m[1;31morigin/feature/pharmacy-registration[m[33m, [m[1;31morigin/feature/oneauthority-user-registration[m[33m, [m[1;31morigin/feature/doctor-registration[m[33m)[m
+Merge: c2760fe 1d24e9b
+Author: Jigna Patel <jignal.patel@1rivet.com>
+Date:   Mon Apr 25 14:41:14 2022 +0530
+
+    Merge branch 'feature/projectstructure' into 'develop'
+    
+    feature/projectstructure into develop
+    
+    See merge request 1Rivet/1medifyservice!1
+
+[33mcommit 1d24e9ba305e2dcacf0a9292033e6a16b9b6df99[m[33m ([m[1;31morigin/feature/projectstructure[m[33m)[m
+Author: Shivam Pandey <shivam.pandey@1Rintern.local>
+Date:   Mon Apr 25 14:38:15 2022 +0530
+
+    added classes and interface in onemedify.infrastructure
+
+[33mcommit e7b09c31a5ebf1d1c89ab6159aae2e1dd616486d[m
+Author: Shivam Pandey <shivam.pandey@1Rintern.local>
+Date:   Fri Apr 22 17:25:48 2022 +0530
+
+    added new classes in entities and repositories folder and also added contracts in onemedify.infrastructure library
+
+[33mcommit 0b3e1a962a41a26a535e3a65e0b164e79bfad075[m
+Author: Shivam Pandey <shivam.pandey@1Rintern.local>
+Date:   Fri Apr 22 15:51:23 2022 +0530
+
+    removed unnecessary usings
+
+[33mcommit 9fe46e4d82493b540304e9f3014eb51f7f8e96cc[m
+Author: Shivam Pandey <shivam.pandey@1Rintern.local>
+Date:   Fri Apr 22 15:48:10 2022 +0530
+
+    added repositories folder in onemedify.infrastructure
+
+[33mcommit 852009bfe9c54455753fdaa528e712635fffa20e[m
+Author: Shivam Pandey <shivam.pandey@1Rintern.local>
+Date:   Fri Apr 22 13:39:05 2022 +0530
+
+    added .gitignore file and created project structure
+
+[33mcommit a67a5e1313687bc063132ad423497351ac977a4b[m
+Author: Shivam Pandey <shivam.pandey@1Rintern.local>
+Date:   Fri Apr 22 13:31:01 2022 +0530
+
+    added .gitignore file and created project structure
+
+[33mcommit a85117e1e9aa40619aea318f78b391cef53e9c5b[m
+Author: Shivam Pandey <shivam.pandey@1Rintern.local>
+Date:   Fri Apr 22 10:26:27 2022 +0530
+
+    added git ignore file
+
+[33mcommit c2760fe2ef31f93553d9741932268b0ca43058a1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: nipul chelani <nipul.chelani@1rivet.com>
+Date:   Tue Mar 29 17:49:36 2022 +0530
+
+    Initial commit
